@@ -370,8 +370,8 @@ header {
   flex-direction: column;
   align-items: stretch;
   text-align: left;
-  width: 100%;
-  height: 100%;
+  width: 264px;
+  height: 224px;
   flex-grow: 1;
 }
 .visually-hidden {

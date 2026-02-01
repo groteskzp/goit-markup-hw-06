@@ -339,7 +339,7 @@ header {
   flex-direction: row;
   flex-wrap: wrap;
   gap:72px;
-  align-items: center;
+  align-items: stretch;
   padding: 0;
 }
 .values-text {
@@ -371,6 +371,7 @@ header {
   align-items: stretch;
   text-align: left;
   width: 100%;
+  flex-grow: 1;
 }
 .visually-hidden {
   position: absolute;
